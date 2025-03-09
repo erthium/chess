@@ -10,7 +10,7 @@ This project is licensed under the [GNU GPL-3.0](https://github.com/ErtyumPX/che
 
 Project is currently compiled with GNU G++ 13.2.1.
 
-The only third-party dependency is SDL2. Used version of SDL2 in project is 2.28.5, should work as long as is SDL2 and not SDL.
+The only third-party dependency is SDL2. Used version of SDL2 in project is 2.28.5, should work as long as it is `SDL2` and not `SDL`.
 
 For compiling and linking rules GNU Make 4.4.1 was used. After downloading dependencies, make sure to change the include paths inside the Makefile.
 
